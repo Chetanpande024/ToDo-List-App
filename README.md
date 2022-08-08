@@ -18,7 +18,6 @@ There are two components -
 -   Frontend
     -   [ReactJS](https://reactjs.org/): JavaScript library for building user interfaces
     -   [Typescript](https://www.typescriptlang.org/): Typed superset of JavaScript
-    -   [React Router DOM](https://reacttraining.com/react-router/web/guides/quick-start): Declarative routing for React
 -   [Docker](https://www.docker.com/): Platform to build, run, and share applications with containers.
 
 # Getting started
