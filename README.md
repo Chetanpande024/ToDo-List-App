@@ -8,9 +8,9 @@ Todo list web app built with [ASP.NET Core](https://docs.microsoft.com/en-us/asp
     -   [ASP NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1): Cross-platform framework to build web apps
     -   EntityFrameworkCore InMemory Database: Microsoft EntityFrameworkCore InMemory Database
 -   Tests
-        -   [xUnit](https://xunit.net/): Unit testing tool for the .NET
-        -   [Fluent Assertions](https://fluentassertions.com/): Fluent API for asserting the results of unit tests
-        -   [Moq](https://github.com/moq/moq): Mocking framework for .NET
+    -   [xUnit](https://xunit.net/): Unit testing tool for the .NET
+    -   [Fluent Assertions](https://fluentassertions.com/): Fluent API for asserting the results of unit tests
+    -   [Moq](https://github.com/moq/moq): Mocking framework for .NET
 -   Frontend
     -   [ReactJS](https://reactjs.org/): JavaScript library for building user interfaces
     -   [Typescript](https://www.typescriptlang.org/): Typed superset of JavaScript
