@@ -3,6 +3,10 @@
 Todo list web app built with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1),
 [ReactJS](https://reactjs.org/) and "EntityFrameworkCore InMemory" Database.
 
+There are two components -
+ - ASP.NET Core API
+ - ReactJS App
+
 ## Technologies
 -   Backend
     -   [ASP NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1): Cross-platform framework to build web apps
@@ -30,8 +34,6 @@ cd ToDo-List
 ### Run without docker
 
 Requires
-
--   [SQL SERVER](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 -   [.NET Core 3.1 SDK](https://dotnet.microsoft.com/download)
 -   [NodeJS](https://nodejs.org/en/)
 
